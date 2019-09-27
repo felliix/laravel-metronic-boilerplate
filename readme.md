@@ -1,4 +1,6 @@
 
+# How to compile Metronic assets into `public` folder
+
 1. `npm install --global gulp`
 2. Go to `resources/tools` and `npm install`
 3. In that folder, `gulp build`
