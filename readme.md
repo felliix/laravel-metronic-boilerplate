@@ -1,3 +1,4 @@
+![Preview](https://github.com/voyager-gold/laravel-metronic-boilerplate/blob/master/preview.png)
 
 # How to compile Metronic assets into Laravel `public` folder
 
