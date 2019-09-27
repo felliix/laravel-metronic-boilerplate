@@ -1,5 +1,5 @@
 
-# How to compile Metronic assets into `public` folder
+# How to compile Metronic assets into Laravel `public` folder
 
 1. `npm install --global gulp`
 2. Go to `resources/tools` and `npm install`
