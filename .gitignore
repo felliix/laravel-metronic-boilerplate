@@ -6,7 +6,6 @@
 /public/vendors
 /resources/dist
 /resources/tools/node_modules
-/resources/tools/package.json
 /resources/tools/yarn.lock
 /storage/*.key
 /vendor
