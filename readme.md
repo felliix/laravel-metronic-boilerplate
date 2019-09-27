@@ -1,5 +1,5 @@
 
-1. `npm install --global bulp`
+1. `npm install --global gulp`
 2. Go to `resources/tools` and `npm install`
 3. In that folder, `gulp build`
 4. Go to root folder and `npm install`
